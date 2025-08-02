@@ -105,6 +105,10 @@ nav:
       - course2/p10.md   
       - course2/p11.md   
   
+  - Actvidades: 
+      - activities/p1.md 
+  - Tutoriales: 
+      - tutorials/p1.md 
 
 plugins:
   - search
