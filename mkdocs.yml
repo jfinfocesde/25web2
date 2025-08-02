@@ -61,7 +61,7 @@ nav:
       - content/p2.md
       - content/p3.md
       - content/p4.md
-      # - content/p5.md
+      - content/p5.md
       # - content/p6.md
       # - content/p7.md
       # - content/p8.md 
@@ -79,6 +79,31 @@ nav:
 
   # - Proyecto Integrador: 
   #     - pi/p1.md   
+  - Typescript: 
+      - course1/p1.md   
+      - course1/p2.md   
+      - course1/p3.md   
+      - course1/p4.md   
+      - course1/p5.md   
+      - course1/p6.md   
+      - course1/p7.md   
+      - course1/p8.md   
+      - course1/p9.md   
+      - course1/p10.md   
+      - course1/p11.md   
+      - course1/p12.md   
+  - Tailwind CSS: 
+      - course2/p1.md   
+      - course2/p2.md   
+      - course2/p3.md   
+      - course2/p4.md   
+      - course2/p5.md   
+      - course2/p6.md   
+      - course2/p7.md   
+      - course2/p8.md   
+      - course2/p9.md   
+      - course2/p10.md   
+      - course2/p11.md   
   
 
 plugins:
