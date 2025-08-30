@@ -114,6 +114,10 @@ nav:
         - tutorials/p1.md 
     - ✅ Condicionales en React:
         - tutorials/p2.md 
+    - ✅ Next.js con Clerk para autenticación :
+        - tutorials/p3.md 
+    - ✅ Guías de Prisma para Next.js:
+        - tutorials/p4.md 
 
 
 plugins:
